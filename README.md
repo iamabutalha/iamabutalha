@@ -2,11 +2,12 @@
  
 
 
-<summary>Programming Languages</summary>
 
-| Rank | Languages |
+Programming Languages
+
+|  | Languages |
 |-----:|-----------|
-|      | JavaScript|
+|     1| JavaScript|
 |     2| Python    |
 |     3| SQL       |
 |     4| C++       |
