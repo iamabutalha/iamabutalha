@@ -1,16 +1,30 @@
+#  AbuTalha Here
+ 
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/iamabutalha/images/blob/master/my-image.jpg">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/iamabutalha/images/blob/master/my-image.jpg">
+</picture>
 
 
 
-- 👋 Hi, I’m @iamabutalha
-- 👀 I’m interested in Javascript And Python
-- 🌱 I’m currently learning Problem Solving
-- 💞️ I’m looking to collaborate on Nothing
-- 📫 How to reach me : Stay Far Away
-- 😄 Pronouns: ...
-- ⚡ Fun fact:
+<summary>Programming Languages</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|      | JavaScript|
+|     2| Python    |
+|     3| SQL       |
+|     4| C++       |
+|     5| C         |
+
+
+    
+
+![](https://mermaid.ink/img/pako:eNplULtqA0EM_BWh-ghOQpptbUgKu4rdXSNu5Vi5u5XZ1SYcxv9u-QUmEQjEzGgG6YCdRsaA31pz4qlN4GViA8OCJliq9rCUnq9E4c5EE7wrmMImyQ_nInZbA5i7GQR4C7DiO-baui9GkkuA10dmTT1DN1Ap7NTzmWq84eVp9i9up-OjY9TfdPf8m_bh0lsSNjhyHkmin3g4a1q0HbsVBh8jb6kO1mKbji6lavo5pQ6D5coN1n0k44XQV6YRw5aG4ihHMc2r69su3zueAMHvZUQ?type=png)
+
 
 - Languages :
-- ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <!---
 iamabutalha/iamabutalha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
