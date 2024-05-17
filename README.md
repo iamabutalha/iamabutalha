@@ -1,10 +1,5 @@
 #  AbuTalha Here
  
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/iamabutalha/images/blob/master/my-image.jpg">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/iamabutalha/images/blob/master/my-image.jpg">
-</picture>
-
 
 
 <summary>Programming Languages</summary>
