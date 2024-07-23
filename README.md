@@ -13,7 +13,7 @@
 </div>
 
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=sammorozov&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=iamabutalha&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 <!---![talha GitHub stats](https://github-readme-stats.vercel.app/api?username=iamabutalha)
