@@ -14,7 +14,10 @@
 
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=iamabutalha&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+   <img align="center" width="45%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamabutalha&theme=react&layout=compact&langs_count=20&hide_title=true"/>
 </p>
+     
+
 
 <!---![talha GitHub stats](https://github-readme-stats.vercel.app/api?username=iamabutalha)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamabutalha)
