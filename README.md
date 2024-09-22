@@ -22,6 +22,7 @@
 
 <h2 align="center">🔧 Languages-Frameworks-Tools 🔧</h2>
 </br>
+<img align="right" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="clock" width="400">
 <div align="center">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,wordpress,js,react,python,&theme=dark "/>
