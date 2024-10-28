@@ -22,14 +22,14 @@
 
 <h2 align="center">🔧 Languages-Frameworks-Tools 🔧</h2>
 </br>
-<img align="right" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="clock" width="400">
+
 <div align="center">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,wordpress,js,react,python,&theme=dark "/>
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,bootstrap,sqlite,visualstudio,vscode,stackoverflow,&theme=dark"/>
 </a>
 </div>
-
+<img align="center" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="clock" width="400" >
 <!---<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"> -->
 
 
