@@ -33,9 +33,61 @@
 <!---<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"> -->
 
 
+## 📊 GitHub Stats  
+
+<div align="center">
+  
+  ### **GitHub Analytics**
+  
+  | **Stats** | **Languages** | **Streak** |
+  |-----------|---------------|------------|
+  | ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamabutalha&theme=tokyonight) | ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafideveloper7&theme=tokyonight) | ![Streak](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamabutalha&theme=tokyonight) |
+  
+  ### **Core Technologies**
+  
+  <div align="center" style="margin-top: 20px;">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  </div>
+  
+  ### **State Management Expertise**
+  
+  <div align="center" style="margin-top: 20px;">
+    <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Context%20API-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+    <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+    <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white" />
+  </div>
+  
+</div>
+
+--- 
+
+---
+
+## 📬 Connect With Me  
+
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=iamabutalha&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-   <img align="center" width="45%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamabutalha&theme=react&layout=compact&langs_count=20&hide_title=true"/>
+  <a href="https://iamabutalha.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/iamabutalha" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:maabutalhakhalil@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/iamabutalhakhalil/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rafideveloper7&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
      
 
