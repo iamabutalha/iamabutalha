@@ -49,7 +49,7 @@ const AbuTalha = {
   architecture: ["Microservices", "Clean Architecture", "Event-Driven", "SaaS"],
   learning:     ["AWS", "Docker", "Turborepo", "System Design"],
   focus:        "Problem Solving → DSA → Scalable Systems",
-  linkedin:     "linkedin.com/in/iamabutalhakhalil",
+  linkedin:     "https://www.linkedin.com/in/abutalha-khalil-4256aa20b/",
   email:        "maabutalhakhalil@gmail.com",
   portfolio:    "talha-xp-portfolio.vercel.app",
   available:    true,
