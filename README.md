@@ -14,7 +14,7 @@
 
 <br>
 
-<b>I love solving problems 🧩</b>
+<b>I love code 🧩</b>
 
 </div>
 
